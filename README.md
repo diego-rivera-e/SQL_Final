@@ -24,5 +24,5 @@ a. Contestada correctamente significa que la respuesta indicada en la tabla resp
 Modelo:
 
 ![Modelo](https://user-images.githubusercontent.com/112424139/235829131-36ed7e4a-c608-46a3-a4ea-18882a33830b.png)
-
-Link Video: 
+ 
+Link Video: https://drive.google.com/file/d/1t4uKhmqHNsDiyXcWhJ3Frwhjnp96XBki/view?usp=share_link ( en vel x2 xfa)
